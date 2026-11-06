@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "date-column",
+  "section": "표 날짜 형식 통일",
+  "hero": "표 날짜 형식 통일",
+  "description": "원본 형식을 명시하세요. 잘못된 날짜와 빈칸은 원문을 보존하고 오류 행 목록으로 표시합니다.",
+  "pageTitle": "표 날짜 형식 통일 | GuideHollow",
+  "url": "https://date-column.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
